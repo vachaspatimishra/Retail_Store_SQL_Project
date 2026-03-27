@@ -50,7 +50,7 @@ Retail-Store-SQL-Project/
 * Order trends over time
 * Product performance
 * Payment method insights
-* High-value customers identification
+* High value customers identification
 
 ## 📌 Conclusion
 This project demonstrates **practical SQL skills** required in real-world data analytics roles by combining **database design, data handling and business insights**.
