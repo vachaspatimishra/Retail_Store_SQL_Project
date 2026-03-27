@@ -1,9 +1,9 @@
 # 🛒 Retail Store SQL Project
 
-# 📌 Overview
+## 📌 Overview
 A complete end-to-end SQL project simulating a real-world retail database. Includes schema design, data insertion and advanced SQL queries covering joins, aggregations, subqueries and business insights for data analytics.
 
-# 🧱 Database Schema
+### 🧱 Database Schema
 The database consists of the following tables:
 * **customers**
 * **products**
